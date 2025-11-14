@@ -1,0 +1,1 @@
+This repository showcases my personal projects and experiments in web development and programming, including HTML, CSS, JavaScript, C, Python, and PHP. Each project highlights my learning, problem-solving, and coding skills.
